@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/flying_android.xml",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/flying_android.xml"
+    },
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/man2.png",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/man2.png"
+    },
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/obstacle_lower.png",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/obstacle_lower.png"
+    },
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/man1.png",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/man1.png"
+    },
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/background.png",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/background.png"
+    },
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/obstacle_upper.png",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/obstacle_upper.png"
+    },
+    {
+        "merged": "/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/res/merged/debug/drawable/man3.png",
+        "source": "/Users/loicheung/Desktop/FlyingAndroid/app/src/main/res/drawable/man3.png"
+    }
+]

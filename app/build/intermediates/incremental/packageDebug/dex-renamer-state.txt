@@ -1,0 +1,7 @@
+#Tue Nov 29 15:33:07 HKT 2016
+base.0=/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0347146581fdd21ef553438ed8c9ad0042bbd1e9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_30ad5977b00aea3939057b3c6959177b8ea9193c/classes.dex
+base.1=/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_30ad5977b00aea3939057b3c6959177b8ea9193c
+file.0=/Users/loicheung/Desktop/FlyingAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0347146581fdd21ef553438ed8c9ad0042bbd1e9/classes.dex
